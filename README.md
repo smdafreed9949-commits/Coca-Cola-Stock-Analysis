@@ -82,3 +82,4 @@ Through **EDA, feature engineering, and Random Forest modeling**, the project de
 The analysis reveals that **Coca-Cola maintains stable growth and low volatility**, making it one of the most reliable defensive stocks in the market.
 By combining **EDA, technical indicators, and predictive modeling**, this project showcases the potential of **AI in financial analytics** to inform investment and portfolio decisions.
 Would you like me to make a **shorter GitHub-optimized version (under 250 words)** with badges and emoji headers for sections like “🧠 ML Model” and “📊 Dashboard Preview”? It’ll look visually appealing on your GitHub README page.
+![alt image](https://github.com/smdafreed9949-commits/Coca-Cola-Stock-Analysis/blob/11ce63961c20af9a59eebeec4ef21f9629039879/WhatsApp%20Image%202025-10-23%20at%2022.30.12_e97d9f84.jpg)
